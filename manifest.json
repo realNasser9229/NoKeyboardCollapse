@@ -1,0 +1,7 @@
+{
+  "name": "NoKeyboardCollapse",
+  "version": "1.0.0",
+  "description": "Prevents the keyboard from collapsing after pressing Enter post-paste.",
+  "author": "realnasser9229",
+  "main": "src/index.js"
+}
