@@ -4,5 +4,5 @@
   "version": "1.0.0",
   "description": "Prevents the keyboard from collapsing when pressing Enter after pasting text.",
   "author": "realnasser9229",
-  "main": "src/index.js"
+  "main": "index.js"
 }
